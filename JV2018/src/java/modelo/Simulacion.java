@@ -3,8 +3,10 @@
  * Organiza aspectos de gestión de la simulación según el modelo2
  * @since: prototipo1.0
  * @source: Simulacion.java 
- * @version: 2.0 - 2019.03.23
+ * @version: 2.0 - 2019.04.10
  * @author: ajp
+ * @author: Grupo 2:
+ * @author: victorJLucas
  */
 
 package modelo;
